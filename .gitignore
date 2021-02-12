@@ -4,3 +4,4 @@
 /.idea
 gradlew*
 /Problems/*.yaml
+out/
